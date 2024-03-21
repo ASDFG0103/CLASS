@@ -1,5 +1,5 @@
 import java.util.*;
-public class JPA02 {
+public class JPA05 {
     static Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
         test();
