@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class hello {
+public class JPA01 {
    public static void main(String[] args){
       System.out.println("Please enter score");
       Scanner s = new Scanner(System.in);
